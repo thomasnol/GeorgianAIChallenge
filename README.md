@@ -1,9 +1,7 @@
 ## Video Demo:
 https://www.youtube.com/watch?v=7JoeO1kjNVw
-
-## Comprehensive Report
-## Introduction
-## This comprehensive report provides an in-depth analysis of various code snippets and informational content related to evaluating entrepreneurs, using OpenAI's GPT-3.5-turbo model, and discussing key elements of startup pitches and visionary leadership.
+Comprehensive Report
+This comprehensive report provides an in-depth analysis of various code snippets and informational content related to evaluating entrepreneurs, using OpenAI's GPT-3.5-turbo model, and discussing key elements of startup pitches and visionary leadership.
 
 ## Code Snippets and Functionalities
 1. Entrepreneur Evaluation using GPT-3.5-turbo
